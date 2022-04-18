@@ -1,0 +1,186 @@
+body {
+  margin: 0;
+  background-color: aquamarine;
+  opacity: 0.2s;
+  padding: 0;
+}
+
+.headline {
+  text-align: center;
+  font-size: 80px;
+  color: blue;
+  animation: slide 5s infinite;
+}
+
+.descriptions {
+  text-align: center;
+  font-size: 20px;
+  color: grey;
+}
+.items {
+  display: flex;
+  align-items: center;
+}
+ul {
+  margin: 50px 100px;
+  padding: 0%;
+  display: flex;
+}
+.items .navigation li {
+  display: inline-block;
+}
+.items .navigation li a {
+  color: black;
+  padding: 34px 23px;
+  font-size: 20px;
+  margin: 20px 60px;
+  font-size: 30px;
+  text-decoration: none;
+  border-radius: 10px;
+}
+
+.items .navigation li a:hover {
+  color: white;
+  background-color: red;
+  text-decoration: underline;
+  border-radius: 10px;
+}
+.stamps {
+  width: 100px;
+  height: 100px;
+}
+#services {
+  display: flex;
+  background-color: antiquewhite;
+}
+
+.h-primary {
+  margin: 0 50%;
+}
+#services.box {
+  padding: 34px;
+  margin: 9px 9px;
+  border: 2px solid black;
+  border-radius: 10px;
+}
+.box img {
+  height: 350px;
+  display: block;
+  margin: auto;
+}
+.image1 {
+  margin: 50px;
+  padding: 50px;
+}
+.image2 {
+  margin: 50px;
+  padding: 50px 10px;
+}
+.image3 {
+  margin: 50px;
+  padding: 50px 10px;
+}
+.image4 {
+  margin: 50px;
+  padding: 50px 10px;
+}
+.image5 {
+  margin: 50px;
+  padding: 50px 10px;
+}
+.image6 {
+  margin: 50px;
+  padding: 50p;
+}
+.image7 {
+  margin: 50px;
+  padding: 50p;
+}
+.i.image8 {
+  margin: 50px;
+  padding: 50p;
+}
+.image9 {
+  margin: 50px;
+  padding: 50p;
+}
+.image10 {
+  margin: 50px;
+  padding: 50p;
+}
+.image11 {
+  margin: 50px;
+  padding: 50p;
+}
+.image12 {
+  margin: 50px;
+  padding: 50p;
+}
+.image13 {
+  margin: 50px;
+  padding: 50p;
+}
+.image14 {
+  margin: 50px;
+  padding: 50p;
+}
+.image15 {
+  margin: 50px;
+  padding: 50p;
+}
+.image17 {
+  margin: 50px;
+  padding: 50p;
+}
+.image18 {
+  margin: 50px;
+  padding: 50p;
+}
+.image19 {
+  margin: 50px;
+  padding: 50p;
+}
+.image20 {
+  margin: 50px;
+  padding: 50p;
+}
+.image21 {
+  margin: 50px;
+  padding: 50p;
+}
+.image22 {
+  margin: 50px;
+  padding: 50p;
+}
+.image23 {
+  margin: 50px;
+  padding: 50p;
+}
+.registration {
+  font-size: 50px;
+  text-align: center;
+}
+
+.formsheets {
+  background-color: rgb(81, 11, 81);
+  height: 500px;
+
+  font-size: 20px;
+}
+.title {
+  color: white;
+  padding: 0;
+  font-size: 50px;
+}
+.item {
+  text-align: justify;
+  font-size: 20px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.item span {
+  position: absolute;
+  bottom: 12pxright;
+  left: 250px;
+  font-size: 14px;
+  color: red;
+}
